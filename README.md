@@ -1,5 +1,5 @@
-# Plantas-Nativas
-CATÁLOGO DE PLANTAS NATIVAS DE URUGUAY
+# CATÁLOGO DE PLANTAS NATIVAS DE URUGUAY
+
 
 Bienvenido (╹ڡ╹ ) mi nombre es Josefina Silbermann y este es mi proyecto.
 

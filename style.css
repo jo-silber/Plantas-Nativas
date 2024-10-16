@@ -1,0 +1,18 @@
+body {
+    font-family: 'Inter', sans-serif;
+  }
+  
+  .hero {
+    background-blend-mode: overlay;
+  }
+  
+  .btn-primary {
+    background-color: #ff385c;
+    border-color: #ff385c;
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  

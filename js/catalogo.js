@@ -13,3 +13,7 @@ fetch('js/JSON.json')
     });
   })
   .catch(error => console.error('Error: ', error));
+
+
+  /* --- mostrar elementos de manera random --- */
+  
